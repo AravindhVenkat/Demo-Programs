@@ -1,4 +1,4 @@
-# DemoProjects
+### DemoProjects
 
 Beginner programs on Python & Java
 
